@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-roboto-mono);
+  box-sizing: border-box;
+}
+
+main {
+  align-items: center;
+  background: #010101;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  min-height: screen;
+  padding: 24px;
+}
+
+h1 {
+  color: #aaaaaa;
+  font-size: 2.25rem;
+  margin-bottom: 10px;
+}
+

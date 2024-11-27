@@ -1,0 +1,9 @@
+.link {
+  bottom: 24px;
+  color: #aaaaaa;
+  font-size: 12px;
+  left: 50%;
+  position: absolute;
+  text-decoration: none;
+  transform: translate(-50%);
+}
